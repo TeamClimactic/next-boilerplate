@@ -906,13 +906,11 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/node,typings,react,reactnative,rust,jetbrains,visualstudio,visualstudiocode,elixir,storybookjs,web
 
-!frontend/.storybook/**/*
-!frontend/src/**/*
-!frontend/*.config.js
-frontend/src/.tsbuildinfo
+!.storybook/**/*
+!src/**/*
+!*.config.js
+src/.tsbuildinfo
 
 .next/
 sitemap.xml
 .env.local
-
-backend/target/**/*
