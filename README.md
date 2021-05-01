@@ -1,4 +1,4 @@
-# next-boilerplate
+# next-boilerplate [![Depfu](https://badges.depfu.com/badges/9f665f8a5348f801836242c594a5ee0f/overview.svg)](https://depfu.com/github/TeamClimactic/next-boilerplate?project_id=24740)
 Open Source React Next Boilerplate made by TeamClimactic
 
 ## Packages
