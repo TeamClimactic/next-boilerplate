@@ -1,0 +1,14 @@
+{
+  "projectName": "next-template",
+  "projectOwner": "TeamClimactic",
+  "repoType": "github",
+  "repoHost": "https://github.com/TeamClimactic/next-template",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [],
+  "contributorsPerLine": 7
+}
