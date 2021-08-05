@@ -1,4 +1,4 @@
-FROM node:16.4.0-alpine AS base
+FROM node:16.6.1-alpine AS base
 
 WORKDIR /base
 
@@ -18,7 +18,7 @@ COPY --from=base /base ./
 
 RUN yarn run build
 
-FROM node:16.4.0-alpine AS production
+FROM node:16.6.1-alpine AS production
 
 ENV NODE_ENV=production
 
